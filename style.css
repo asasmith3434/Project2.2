@@ -1,0 +1,15 @@
+.names { display:inline;
+            float: left;
+            padding: 20px }
+.names2 { 
+            float:left;
+            padding: 20px}
+.names3{
+    float:left;
+    padding: 20px;
+    
+}
+li{
+    width: 50px; 
+    padding: 5px;
+}
